@@ -30,3 +30,7 @@ console.log(typeof login)
 
 console.log(typeof null) //type of null is object
 console.log(typeof undefined) //tpye of undefined is undefined
+
+
+// interview question  
+// undefined is type and null is object
